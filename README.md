@@ -12,6 +12,11 @@ The EDA conducted in Python which included spatial and time analysis, clustering
 
 Given the complexity of the subject and drastic changes in international trade we could observe during the last three years, two case scenarios were developed: one which gave a rundown of the basic food availability parameters in a world as it is today, with (mostly) uninterupted international trade, and second which showcased a so called "Mad Max" scenario which is characterized by a complete stop of import and export of commodities. In this case, what the country produces is what it eats.
 
+The end result were two Tableau visualizations:
+  - [Food Availability Report](https://public.tableau.com/app/profile/lomanita/viz/FoodAvailabilityReport/FoodAvailabilityReport) in a form of a storyboard, and
+  - an interactive dashboard [Can your country feed you?](https://public.tableau.com/app/profile/lomanita/viz/Canyourcountryfeedyou/Canyourcountryfeedyou) showcasing two mentioned scenarios.
+### Data
+Used data is open source data from FAOSTAT available [here](https://www.fao.org/faostat/en/#data/FBS).
 
 ## Repository overview - folders
 
