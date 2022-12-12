@@ -1,0 +1,124 @@
+Item Code,CPC Code,Item
+2501,'S2501,Population
+2511,'S2511,Wheat and products
+2513,'S2513,Barley and products
+2514,'S2514,Maize and products
+2515,'S2515,Rye and products
+2516,'S2516,Oats
+2517,'S2517,Millet and products
+2518,'S2518,Sorghum and products
+2520,'S2520,Cereals; Other
+2531,'S2531,Potatoes and products
+2532,'S2532,Cassava and products
+2533,'S2533,Sweet potatoes
+2534,'S2534,Roots; Other
+2535,'S2535,Yams
+2536,'S2536,Sugar cane
+2537,'S2537,Sugar beet
+2541,'S2541,Sugar non-centrifugal
+2542,'S2542,Sugar (Raw Equivalent)
+2543,'S2543,Sweeteners; Other
+2546,'S2546,Beans
+2547,'S2547,Peas
+2549,'S2549,Pulses; Other and products
+2551,'S2551,Nuts and products
+2552,'S2552,Groundnuts
+2555,'S2555,Soyabeans
+2557,'S2557,Sunflower seed
+2558,'S2558,Rape and Mustardseed
+2559,'S2559,Cottonseed
+2560,'S2560,Coconuts - Incl Copra
+2561,'S2561,Sesame seed
+2562,'S2562,Palm kernels
+2563,'S2563,Olives (including preserved)
+2570,'S2570,Oilcrops; Other
+2571,'S2571,Soyabean Oil
+2572,'S2572,Groundnut Oil
+2573,'S2573,Sunflowerseed Oil
+2574,'S2574,Rape and Mustard Oil
+2575,'S2575,Cottonseed Oil
+2576,'S2576,Palmkernel Oil
+2577,'S2577,Palm Oil
+2578,'S2578,Coconut Oil
+2579,'S2579,Sesameseed Oil
+2580,'S2580,Olive Oil
+2581,'S2581,Ricebran Oil
+2582,'S2582,Maize Germ Oil
+2586,'S2586,Oilcrops Oil; Other
+2601,'S2601,Tomatoes and products
+2602,'S2602,Onions
+2605,'S2605,Vegetables; other
+2611,'S2611,Oranges; Mandarines
+2612,'S2612,Lemons; Limes and products
+2613,'S2613,Grapefruit and products
+2614,'S2614,Citrus; Other
+2615,'S2615,Bananas
+2616,'S2616,Plantains
+2617,'S2617,Apples and products
+2618,'S2618,Pineapples and products
+2619,'S2619,Dates
+2620,'S2620,Grapes and products (excl wine)
+2625,'S2625,Fruits; other
+2630,'S2630,Coffee and products
+2633,'S2633,Cocoa Beans and products
+2635,'S2635,Tea (including mate)
+2640,'S2640,Pepper
+2641,'S2641,Pimento
+2642,'S2642,Cloves
+2645,'S2645,Spices; Other
+2655,'S2655,Wine
+2656,'S2656,Beer
+2657,'S2657,Beverages; Fermented
+2658,'S2658,Beverages; Alcoholic
+2659,'S2659,Alcohol; Non-Food
+2680,'S2680,Infant food
+2731,'S2731,Bovine Meat
+2732,'S2732,Mutton & Goat Meat
+2733,'S2733,Pigmeat
+2734,'S2734,Poultry Meat
+2735,'S2735,Meat; Other
+2736,'S2736,Offals; Edible
+2737,'S2737,Fats; Animals; Raw
+2740,'S2740,Butter; Ghee
+2743,'S2743,Cream
+2744,'S2744,Eggs
+2745,'S2745,Honey
+2761,'S2761,Freshwater Fish
+2762,'S2762,Demersal Fish
+2763,'S2763,Pelagic Fish
+2764,'S2764,Marine Fish; Other
+2765,'S2765,Crustaceans
+2766,'S2766,Cephalopods
+2767,'S2767,Molluscs; Other
+2768,'S2768,Meat; Aquatic Mammals
+2769,'S2769,Aquatic Animals; Others
+2775,'S2775,Aquatic Plants
+2781,'S2781,Fish; Body Oil
+2782,'S2782,Fish; Liver Oil
+2807,'S2807,Rice and products
+2848,'S2848,Milk - Excluding Butter
+2899,'S2899,Miscellaneous (GIFT)
+2901,'S2901,Grand Total
+2903,'S2903,Vegetal Products
+2905,'S2905,Cereals - Excluding Beer
+2907,'S2907,Starchy Roots
+2908,'S2908,Sugar Crops
+2909,'S2909,Sugar & Sweeteners
+2911,'S2911,Pulses
+2912,'S2912,Treenuts
+2913,'S2913,Oilcrops
+2914,'S2914,Vegetable Oils
+2918,'S2918,Vegetables
+2919,'S2919,Fruits - Excluding Wine
+2922,'S2922,Stimulants
+2923,'S2923,Spices
+2924,'S2924,Alcoholic Beverages
+2928,'S2928,Miscellaneous (GIFT)
+2941,'S2941,Animal Products
+2943,'S2943,Meat
+2945,'S2945,Offals
+2946,'S2946,Animal fats
+2948,'S2948,Milk - Excluding Butter
+2949,'S2949,Eggs
+2960,'S2960,Fish; Seafood
+2961,'S2961,Aquatic Products; Other

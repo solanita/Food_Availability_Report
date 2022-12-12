@@ -1,0 +1,43 @@
+﻿Glossary Code,Glossary,Description
+99387,Food Balance Sheets,"Food Balance Sheets (FBS) are compiled every year by FAO, mainly with country-level data on the production and trade of food commodities.
+Using these data and the available information on seed rates, waste coefficients, stock changes and types of utilization (feed, food, processing and other utilization), a supply/utilization account is prepared for each commodity in weight terms.
+The food component of the commodity account, which is usually derived as a balancing item, refers to the total amount of the commodity available for human consumption during the year.
+Besides commodity-by-commodity information, the FAO FBS also provide total food availability estimates by aggregating the food component of all commodities including fishery products.
+From these values and the available population estimates, the per person dietary energy and protein and fat supplies are derived and expressed on a daily basis.
+In the FBS production data refer only to primary products while data for all other elements also include processed products derived there from, expressed in primary commodity equivalent.
+Source: FAO Statistics Division,http://www.fao.org/es/ess/compendium_2004/technotes.asp"
+99374,Import dependency ratio,"Import dependency ratio (IDR) is defined as: IDR = imports*100/(production + imports - exports).
+The complement of this ratio to 100 would represent that part of the domestic food supply that has been produced in the country itself. However, there is a caveat to be kept in mind: these ratios hold only if imports are mainly used for domestic utilization and are not re-exported.
+Source: FAO. 2001. Food balance sheets. A handbook. Rome."
+99030,Kilocalorie (kcal),"Unit of measurement of dietary energy.
+It should be noted that in accordance to International System of Units, energy is measured in joules, J, but the customary usage of thermochemical energy units of kilocalories (kcal) is mostly used. 1 kcal = 4.184 kJ.
+Source: Human energy requirement (Joint FAO/WHO/UNU Expert Consultation), 2001"
+99375,Self-sufficiency ratio,"The self-sufficiency ratio (SSR) is defined as: SSR = production*100/(production + imports – exports).
+The SSR can be calculated for individual commodities, groups of commodities of similar nutritional values and, after appropriate conversion of the commodity equations, also for the aggregate of all commodities.
+In the context of food security, the SSR is often taken to indicate the extent to which a country relies on its own production resources, i.e. the higher the ratio the greater the self-sufficiency.
+While the SSR can be the appropriate tool when assessing the supply situation for individual commodities, a certain degree of caution should be observed when looking at the overall food situation.
+In the case, however, where a large part of a country's production of one commodity, e.g. other cereals, is exported, the SSR may be very high but the country may still have to rely heavily on imports of food commodities to feed the population.
+The self-sufficiency rate (as defined above) cannot be the complement to 100 of the import dependency rate, or vice-versa.
+Source: FAO. 2001. Food balance sheets. A handbook. Rome."
+99376,Food production,"For primary commodities, production relates to the total domestic production whether inside or outside the agricultural sector, i.e. including non-commercial production and production in kitchen gardens.
+Unless otherwise indicated, production is reported at the farm level for primary crops (i.e. excluding harvesting losses for crops) and livestock items and in terms of live weight (i.e. the actual ex-water weight of the catch at the time of capture) for primary fish items.
+Production of processed commodities relates to the total output of the commodity at the manufacture level (i.e. it comprises output from domestic and imported raw materials of originating products).
+Reporting units are chosen accordingly, e.g. cereals are reported in terms of grains and paddy rice.
+As a general rule, all data on meat are expressed in terms of carcass weight.
+Usually the data on production relate to that which takes place during the reference period. However, production of certain crops may relate to the harvest of the year preceding the utilization period if harvesting takes place late in the year. In such instances, the production of a given year largely moves into consumption in the subsequent year.
+In the Food Balance Sheets a distinction is made between ""output"" and ""input"".
+The production of primary as well as of derived products is reported under ""output"".
+For derived commodities, the amounts of the originating commodity that are required for obtaining the output of the derived product are indicated under ""input"", and are expressed in terms of the originating commodity.
+The various factors used, i.e. milling rates, extraction rates, conversion or processing factors, carcass weights, milk yield, egg weights etc., should indicate the average national rate at which these commodities are generally converted.
+Source: FAO. 2001. Food balance sheets. A handbook. Rome."
+99070,Per capita supply,"Estimates of per capita food supplies available for human consumption during the reference period in terms of quantity, caloric value, protein and fat content.
+Calorie supplies are reported in kilocalories (1 calorie = 4.19 kilojoules).
+Per capita supplies in terms of product weight are derived from the total supplies available for human consumption (i.e. Food) by dividing the quantities of Food by the total population actually partaking of the food supplies during the reference period, i.e. the present in-area (de facto) population within the present geographical boundaries of the country.
+In other words, nationals living abroad during the reference period are excluded, but foreigners living in the country are included.
+Adjustments are made wherever possible for part-time presence or absence, such as temporary migrants, tourists and refugees supported by special schemes (if it has not been possible to allow for the amounts provided by such schemes under imports).
+In almost all cases, the population figures used are the mid-year estimates published by the United Nations Population Division.
+Per capita supply figures shown in the commodity balances therefore represent only the average supply available for the population as a whole and do not necessarily indicate what is actually consumed by individuals.
+Even if they are taken as approximation to per capita consumption, it is important to note that the amount of food actually consumed may be lower than the quantity shown here, depending on the degree of losses of edible food and nutrients in the household, e.g. during storage, in preparation and cooking etc.
+In many cases commodities are not consumed in the primary form in which they are presented in the commodity balance, e.g. cereals enter the household mainly in processed form like flour, meal, husked or milled rice.
+To take this fact into account, the caloric value, the protein and fat content shown against primary commodities in the commodity balances have been derived by applying the appropriate food composition factors to the quantities of the processed commodities and not by multiplying the quantities shown in the commodity balance with the food composition factors relating to primary commodities.
+Source: FAO Statistics Division"
